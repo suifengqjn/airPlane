@@ -20,6 +20,7 @@
 		C229EF181C4DF19200ED24E7 /* TBImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C229EF171C4DF19200ED24E7 /* TBImageManager.m */; };
 		C23630811C54A5CA00FD16C2 /* TBMusicTool.m in Sources */ = {isa = PBXBuildFile; fileRef = C23630801C54A5CA00FD16C2 /* TBMusicTool.m */; };
 		C23630841C54C5E100FD16C2 /* TBConst.m in Sources */ = {isa = PBXBuildFile; fileRef = C23630831C54C5E100FD16C2 /* TBConst.m */; };
+		C26C5D811C5DBF1300BAD17A /* 110.gif in Resources */ = {isa = PBXBuildFile; fileRef = C26C5D801C5DBF1300BAD17A /* 110.gif */; };
 		C2A866701C4E23300007C067 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = C2A8666F1C4E23300007C067 /* UIView+Extension.m */; };
 		C2C0CCCC1C531E3B008151CE /* TBLogoView.m in Sources */ = {isa = PBXBuildFile; fileRef = C2C0CCCB1C531E3B008151CE /* TBLogoView.m */; };
 		C2C0CCCF1C5321C9008151CE /* TBhero.m in Sources */ = {isa = PBXBuildFile; fileRef = C2C0CCCE1C5321C9008151CE /* TBhero.m */; };
@@ -55,6 +56,7 @@
 		C23630801C54A5CA00FD16C2 /* TBMusicTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBMusicTool.m; sourceTree = "<group>"; };
 		C23630821C54C5E100FD16C2 /* TBConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBConst.h; sourceTree = "<group>"; };
 		C23630831C54C5E100FD16C2 /* TBConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBConst.m; sourceTree = "<group>"; };
+		C26C5D801C5DBF1300BAD17A /* 110.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 110.gif; sourceTree = "<group>"; };
 		C2A8666E1C4E23300007C067 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		C2A8666F1C4E23300007C067 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
 		C2C0CCCA1C531E3B008151CE /* TBLogoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBLogoView.h; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 		C229EEE31C4DD27200ED24E7 /* airplane */ = {
 			isa = PBXGroup;
 			children = (
+				C26C5D7F1C5DBF0300BAD17A /* screenShot */,
 				C229EEFB1C4DD2C900ED24E7 /* controller */,
 				C229EEFC1C4DD2C900ED24E7 /* model */,
 				C229EEFD1C4DD2C900ED24E7 /* resource */,
@@ -197,6 +200,14 @@
 			path = other;
 			sourceTree = "<group>";
 		};
+		C26C5D7F1C5DBF0300BAD17A /* screenShot */ = {
+			isa = PBXGroup;
+			children = (
+				C26C5D801C5DBF1300BAD17A /* 110.gif */,
+			);
+			path = screenShot;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -256,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C229EEF41C4DD27200ED24E7 /* LaunchScreen.storyboard in Resources */,
+				C26C5D811C5DBF1300BAD17A /* 110.gif in Resources */,
 				C229EF051C4DE13E00ED24E7 /* music.bundle in Resources */,
 				C229EF041C4DE13E00ED24E7 /* images.bundle in Resources */,
 				C229EEF11C4DD27200ED24E7 /* Assets.xcassets in Resources */,
