@@ -6,7 +6,7 @@ _实现3种大小不同的敌机，用损伤和爆炸效果，自身血量不同
 _英雄发射子弹带音效<br />
 _整个游戏带背景音效<br />
 _最高分缓存到本地，破记录会更新<br />
-![image](![image](https://github.com/suifengqjn/airPlane/blob/master/airplane/screenShot/110.gif)<br />
+![image](https://github.com/suifengqjn/airPlane/blob/master/airplane/screenShot/110.gif)<br />
 
 
 
